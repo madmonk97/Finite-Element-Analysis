@@ -1,2 +1,2 @@
 # Finite-Element-Analysis
-Some codes for solving finite element analysis problems using Matlab
+Repo for solving finite element problems using MATLAB computation. 
