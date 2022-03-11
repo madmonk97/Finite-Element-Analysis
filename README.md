@@ -1,2 +1,2 @@
 # Finite-Element-Analysis
-Repo for solving finite element problems using MATLAB computation. 
+This repository includes some homework assignments, projects from a finite elements course. 
